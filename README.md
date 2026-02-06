@@ -1,1 +1,1 @@
-# strivexp-badges
+# strivexp-assets
